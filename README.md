@@ -3,8 +3,8 @@ Welcome to the CNN Eye Disease Diagnosis Repository, dedicated to accurately cla
 
 The primary objectives of this repository are:
 
-1- Accurate Disease Classification: Our CNN model is trained to classify fundus images into different categories corresponding to specific eye diseases such as diabetic retinopathy, age-related macular degeneration, glaucoma, and others. By leveraging advanced deep learning techniques, we aim to achieve high accuracy in disease detection to support timely interventions and treatments.
+1. **Accurate Disease Classification**: Our CNN model is trained to classify fundus images into different categories corresponding to specific eye diseases such as diabetic retinopathy, age-related macular degeneration, glaucoma, and others. By leveraging advanced deep learning techniques, we aim to achieve high accuracy in disease detection to support timely interventions and treatments.
 
-2- Diagnostic Assistance: Medical professionals can utilize this repository as a supplementary tool to confirm their initial diagnoses. By inputting fundus images into the trained CNN model, clinicians can receive additional insights and validation, enhancing diagnostic confidence and reducing the risk of misdiagnosis.
+2. **Diagnostic Assistance**: Medical professionals can utilize this repository as a supplementary tool to confirm their initial diagnoses. By inputting fundus images into the trained CNN model, clinicians can receive additional insights and validation, enhancing diagnostic confidence and reducing the risk of misdiagnosis.
 
 We've also built a Shiny app for users to upload images and leverage the developed model.
